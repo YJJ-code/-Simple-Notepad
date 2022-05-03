@@ -1,0 +1,12 @@
+C:\Users\YJJ\Desktop\记事本\Txt\bin\Debug\Txt.exe.config
+C:\Users\YJJ\Desktop\记事本\Txt\bin\Debug\Txt.exe
+C:\Users\YJJ\Desktop\记事本\Txt\bin\Debug\Txt.pdb
+C:\Users\YJJ\Desktop\记事本\Txt\obj\Debug\Txt.csproj.AssemblyReference.cache
+C:\Users\YJJ\Desktop\记事本\Txt\obj\Debug\Txt.csproj.SuggestedBindingRedirects.cache
+C:\Users\YJJ\Desktop\记事本\Txt\obj\Debug\Txt.Form1.resources
+C:\Users\YJJ\Desktop\记事本\Txt\obj\Debug\Txt.Properties.Resources.resources
+C:\Users\YJJ\Desktop\记事本\Txt\obj\Debug\Txt.csproj.GenerateResource.cache
+C:\Users\YJJ\Desktop\记事本\Txt\obj\Debug\Txt.csproj.CoreCompileInputs.cache
+C:\Users\YJJ\Desktop\记事本\Txt\obj\Debug\Txt.exe
+C:\Users\YJJ\Desktop\记事本\Txt\obj\Debug\Txt.pdb
+C:\Users\YJJ\Desktop\记事本\Txt\obj\Debug\Txt.Form2.resources
